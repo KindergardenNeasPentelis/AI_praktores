@@ -1,4 +1,3 @@
-# AI_praktores
 Συνεργατικό έργο
 Mission Possible: AI Πράκτορες στη σχολική αυλή
 
@@ -69,3 +68,42 @@ Aν έχετε την δυνατότητα να σχεδιάσετε εξ αρχ
 μέσα από την εκπαιδευτική κοινότητα μέσω των blogs των συνεργαζόμενων σχολείων,
 μέσω της παρουσίαση του συνεργατικού έργου στους γονείς των μαθητών/ τριών των συνεργαζόμενων σχολείων,
 μέσω του διαμοιρασμού του έργου με την τοπική κοινωνία μέσω της προώθησης του παραγόμενου συνεργατικού υλικού για προβολή του, μέσω των ιστοσελίδων των Δήμων και των τοπικών εφημερίδων.
+Λίστα προτεινόμενου εξοπλισμού
+
+1 tablet (μέγεθος οθόνης 10’/ μνήμη 4 GB+ 64GB
+
+1 laptop - (i5/ryzen 5 - 8GB μνήμη/ssd σκληρό δίσκο)
+
+2 μικροελεγκτές micro bit
+
+κιτ εφευρέσεων makey makey (θα αξιοποιηθεί ο εξοπλισμός από τα έργα προηγούμενων ετών)
+
+επιδαπέδια ρομπότ blue bot και bee bot (θα αξιοποιηθεί ο εξοπλισμός από τα έργα προηγούμενων ετών)
+
+
+Κόστος
+
+1 laptop 500
+1 tablet 200 ευρώ
+2 micro bit
+ 60 ευρώ
+
+Βιβλιογραφία
+Αυγητίδου, Σ. (2014). Οι εκπαιδευτικοί ως ερευνητές και ως στοχαζόμενοι επαγγελματίες. Αθήνα: Gutenberg.
+Ζαράνης, Ν., Καλογιαννάκης, Μ., Παπαδάκης, Σ. (2013). Χρήση κινητών συσκευών για τη διδασκαλία των ρεαλιστικών μαθηματικών στο Νηπιαγωγείο. Στο Λαδιάς, Α. Πρακτικά Εργασιών του 3ου Πανελληνίου Συνεδρίου ΕΤΠΕ. Πανεπιστήμιο Πειραιά. 
+Κασσωτάκης Μ. (2022). Στο Γεώργιος Στ. Φλουρής, Πολλαπλή Νοημοσύνη & Εκπαίδευση: Θεωρία, Έρευνες, Εφαρμογές. Εκδόσεις: Γρηγόρη, Αθήνα, 2021. Επιστήμες Αγωγής, 2022(2), 280–285. https://doi.org/10.26248/.v2022i2.1615
+Ναουμ, Ε. (2021). Εργαστήρια Δεξιοτήτων. Μεθοδολογία Εμψύχωσης Δεξιοτήτων. 1. Η Μάθηση βάσει Έργου (Project Based Learning) ως μεθοδολογία ανάπτυξης των δεξιοτήτων Μάθησης (4Cs) στο Νηπιαγωγείο. 2.  Το Εκπαιδευτικό Δράμα ως μεθοδολογία ανάπτυξης των δεξιοτήτων της Κοινωνικής ζωής (ενσυναίσθηση και ευαισθησία) στο Νηπιαγωγείο, στο πλαίσιο της Πράξης «Επιμόρφωση των Εκπαιδευτικών στις δεξιοτητες μέσω εργαστηρίων» του ΙΕΠ με MIS 5092064.
+Πριμικίρη, Α. (2020). Εκπαίδευση 4.0. Μάθηση και δεξιότητες του 21ου αιώνα. Αθήνα: Παπαδόπουλος
+Τσαπάρα, Μ. (2015). «Ο Κύριος Δράκος, η Πριγκίπισσα Φίλια και το Φίλτρο της Φιλίας»: Μια έρευνα δράσης, για την ανάπτυξη κοινωνικών δεξιοτήτων μέσα από το σχεδιασμό και την υλοποίηση ενός χωροευαίσθητου παιχνιδιού με παιδιά προσχολικής ηλικίας. Διπλωματική εργασία. Διαπανεπιστημιακό Διατμηματικό ΠΜΣ ΤΠΕ για την Εκπαίδευση. ΤΕΑΠΗ, ΕΚΠΑ.
+Al Şensoy, S. & Midilli Sarı, R. (2019). Re-Design of Schoolyard for Effective Development of Child From a Universal Design Perspective. MEGARON / Yıldız Technical University Faculty of Architecture E-Journal. 14. 443-459. 10.14744/megaron.2019.72677. 
+Bender, W.N. (2012). Project-Based Learning: Differentiating Instruction for the 21st Century, Corwin.
+Blazic, A. (Χ.Η). Τεχνητή Νοημοσύνη στην Εκπαίδευση: Προκλήσεις και Ευκαιρίες. [Online] Διαθέσιμο στο: school-education.ec.europa.eu. Τεχνητή νοημοσύνη στην εκπαίδευση: Προκλήσεις και ευκαιρίες | ESEP (europa.eu)
+Boss, S., & Krauss, J. (2008). Reinventing Project-Based Learning: Your Field Guide to Real-World Projects in the Digital Age.
+Gardner, H. (2011). Frames of mind (3rd ed.) New York: Basic.
+Jones, R. (2007). Project-Based Learning and Early Learning Standards: Making the Connection. Exchange: The Early Childhood Leaders’ Magazine Since 1978, n174 p8-11 Mar-Apr 2007. 
+Kokkalia, Georgia & Drigas, Athanasios & Economou, Alexandra. (2016). Mobile Learning For Preschool Education. International Journal of Interactive Mobile Technologies (iJIM). 10. 57. 10.3991/ijim.v10i4.6021. 
+Kokotsaki, D., Menzies, V., Wiggins, A.(2016). Project-based learning: A review of the literature. Improving Schools. 19. 10.1177/1365480216659733. 
+Unesco (2012). TURNING ON MOBILE LEARNING IN EUROPE: Illustrative Initiatives and Policy Implications. France: United Nations Educational, Scientific and Cultural Organization.
+
+
+
